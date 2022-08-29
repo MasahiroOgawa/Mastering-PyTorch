@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
+data_dir/
+models_dir/
 
 **/.DS_Store
 *~
