@@ -2,9 +2,14 @@
 data_dir/
 models_dir/
 data/
+.data/
+aclImdb
 
 **/.DS_Store
 *~
+*.pt
 *.pth
 'Mastering PyTorch.pdf'
 *.orig
+
+
